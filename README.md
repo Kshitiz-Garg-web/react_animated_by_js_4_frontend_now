@@ -1,3 +1,4 @@
+# Edit by me now_to_check the learning of Git & GitHub
 # ThirtySix Studio - Agency Portfolio
 
 ![ThirtySix Studio Banner](./36.png)
